@@ -1,0 +1,14 @@
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\bin\Debug\net8.0\CS_AbstractFactory_2.exe
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\bin\Debug\net8.0\CS_AbstractFactory_2.deps.json
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\bin\Debug\net8.0\CS_AbstractFactory_2.runtimeconfig.json
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\bin\Debug\net8.0\CS_AbstractFactory_2.dll
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\bin\Debug\net8.0\CS_AbstractFactory_2.pdb
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\obj\Debug\net8.0\CS_AbstractFactory_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\obj\Debug\net8.0\CS_AbstractFactory_2.AssemblyInfoInputs.cache
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\obj\Debug\net8.0\CS_AbstractFactory_2.AssemblyInfo.cs
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\obj\Debug\net8.0\CS_AbstractFactory_2.csproj.CoreCompileInputs.cache
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\obj\Debug\net8.0\CS_AbstractFactory_2.dll
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\obj\Debug\net8.0\refint\CS_AbstractFactory_2.dll
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\obj\Debug\net8.0\CS_AbstractFactory_2.pdb
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\obj\Debug\net8.0\CS_AbstractFactory_2.genruntimeconfig.cache
+C:\Users\psoriano\source\repos\CS_AbstractFactory_2\obj\Debug\net8.0\ref\CS_AbstractFactory_2.dll
